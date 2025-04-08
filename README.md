@@ -1,4 +1,4 @@
-# favourite_app
+# Favourite App using Riverpod (State Management)
 
 A new Flutter project.
 
